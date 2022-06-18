@@ -45,7 +45,7 @@ class HomeViewModel extends BaseViewModel {
                     notifyListeners();
                   },
                   onEditingComplete: () {
-                    TextInputAction.next;
+                    // TextInputAction.next;
                   },
                 ),
                 TextField(
